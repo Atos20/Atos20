@@ -6,11 +6,11 @@
 
 ## I'm developer that loves the outdoors
 
-- 🌱 I’m currently learning React 🤯
-- 🤜🏽 🤛🏽 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To collaborate on projects using react
-- 🥅 2021 Goals: To get my first job as a software developer
-- ⚡ Fun fact: When I am not learning JS and React I love cooking and mountain biking.
+- 🌱  I’m currently learning postgreSQL and Knex 🤯
+- 🤜🏽  🤛🏽  I’m looking to collaborate with other content creators
+- 🥅  2020 Goals: To collaborate on projects using react
+- 🥅  2021 Goals: To get my first job as a software developer
+- ⚡  Fun fact: When I am not learning JS and React I love cooking and mountain biking.
 
 ### Connect with me:
 
