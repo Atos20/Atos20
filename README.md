@@ -6,7 +6,7 @@
 
 ## I'm a developer that loves the outdoors
 
-- 🌱  I’m currently learning postgreSQL and Knex 🤯
+- 🌱  I’m currently learning Redux and GraphQL 🤯
 - 🤜🏽  🤛🏽  I’m looking to collaborate with other content creators
 - 🥅  2020 Goals: To collaborate on projects using react
 - 🥅  2021 Goals: To get my first job as a software developer
