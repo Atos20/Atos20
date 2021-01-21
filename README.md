@@ -40,7 +40,7 @@
 
   <img align="left" alt="Atos20's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Atos20&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atos20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atos20)](https://github.com/Atos20/github-readme-stats)
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [twitter]: https://twitter.com/orlathous
