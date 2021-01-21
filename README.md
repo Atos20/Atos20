@@ -6,9 +6,8 @@
 
 ## I'm a developer that loves the outdoors
 
-- 🌱  I’m currently learning Redux and GraphQL 🤯
-- 🤜🏽  🤛🏽  I’m looking to collaborate with other content creators
-- 🥅  2020 Goals: To collaborate on projects using react
+- 🌱  I’m currently learning Typescript
+- 🤜🏽  🤛🏽  I’m looking forward to collaborating with other content creators, designers, PM and developers.
 - 🥅  2021 Goals: To get my first job as a software developer
 - ⚡  Fun fact: When I am not learning JS and React I love cooking and mountain biking.
 
