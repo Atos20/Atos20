@@ -6,11 +6,6 @@
 
 ## I'm a developer that loves the outdoors
 
-- 🌱  I’m currently learning Typescript
-- 🤜🏽  🤛🏽  I’m looking forward to collaborating with other content creators, designers, PM and developers.
-- 🥅  2021 Goals: To get my first job as a software developer
-- ⚡  Fun fact: When I am not learning JS and React I love cooking and mountain biking.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
