@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://github.com/Atos20/Atos20/assets/56229864/898e3cf9-5962-467e-87b6-ff821b398eb6" alt="giphy" style="trasnformÑ rotate(95deg)">
+</p>
+
 <h1 align="center">Hi 👋, I'm Orlando Martinez Murcio</h1>
 <h3 align="center">I'am. Husband, Father, Developer and Friend.</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Atos20/Atos20/assets/56229864/c4439e99-369e-4ada-ab9c-af2f86b47539">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atos20&label=Profile%20views&color=0e75b6&style=flat" alt="atos20" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=atos20" alt="atos20" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/orlathous" target="blank"><img src="https://img.shields.io/twitter/follow/orlathous?logo=twitter&style=for-the-badge" alt="orlathous" /></a> </p>
 
@@ -35,26 +38,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atos20&" alt="atos20" /></p>
 
 
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[twitter]: https://twitter.com/orlathous
-[instagram]: https://www.instagram.com/orlatos/?hl=en
-[linkedin]: https://www.linkedin.com/in/orlando-martinez-murcio-19605472/
-
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-[contributors-shield]: https://img.shields.io/github/contributors/jordy1611/whats-cookin-JS-JS-KS.svg?style=flat-square
-[contributors-url]: https://github.com/jordy1611/whats-cookin-JS-JS-KS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jordy1611/whats-cookin-JS-JS-KS.svg?style=flat-square
-[forks-url]: https://github.com/jordy1611/whats-cookin-JS-JS-KS/network/members
-[stars-shield]: https://img.shields.io/github/stars/jordy1611/whats-cookin-JS-JS-KS.svg?style=flat-square
-[stars-url]: https://github.com/jordy1611/whats-cookin-JS-JS-KS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jordy1611/whats-cookin-JS-JS-KS.svg?style=flat-square
-[issues-url]: https://github.com/jordy1611/whats-cookin-JS-JS-KS/issues
-[license-shield]: https://img.shields.io/github/license/jordy1611/whats-cookin-JS-JS-KS.svg?style=flat-square
-[license-url]: https://github.com/jordy1611/whats-cookin-JS-JS-KS/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
