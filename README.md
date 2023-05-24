@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atos20&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atos20&count_private=true&show_icons)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <div align="center">
