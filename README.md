@@ -18,6 +18,8 @@
 
 ### Languages and Tools:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atos20&count_private=true)]
+
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
   <img alt=node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
