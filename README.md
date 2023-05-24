@@ -4,13 +4,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/orlathous?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/orlathous/followers)
 
-## I'm a developer that loves the outdoors
+## I'm a Husband, Father, Friend, Developer and Mentor
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -20,6 +19,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atos20&count_private=true)]
 
+---
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
   <img alt=node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
