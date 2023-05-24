@@ -16,9 +16,11 @@
 ---
 
 ### Languages and Tools:
-
+<!-- statistics card -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atos20&count_private=true&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atos20)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
