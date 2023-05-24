@@ -20,7 +20,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atos20&count_private=true&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atos20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atos20&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
@@ -39,7 +39,6 @@
 
   <img align="left" alt="Atos20's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Atos20&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atos20)](https://github.com/Atos20/github-readme-stats)
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [twitter]: https://twitter.com/orlathous
