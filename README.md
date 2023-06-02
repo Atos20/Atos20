@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Orlando Martinez Murcio</h1>
-<h3 align="center">I'am. Husband, Father, Developer and Friend.</h3>
+<h3 align="center">I'am a Husband, Father, Developer and Friend.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Atos20/Atos20/assets/56229864/c4439e99-369e-4ada-ab9c-af2f86b47539">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atos20&label=Profile%20views&color=0e75b6&style=flat" alt="atos20" /> </p>
